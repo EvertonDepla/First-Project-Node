@@ -15,11 +15,11 @@
 
 <img src="https://github.com/EvertonDepla/Users-React-Back-End/blob/master/assets/React-login.png?raw=true" alt="print-site1">
 
-<h3 align="center">Intweface de usuários</h3>
+<h3 align="center">Interface de usuários</h3>
 
 <div align="center">
 
-<img src="https://github.com/EvertonDepla/Users-React-Back-End/blob/master/assets/react-users.png?raw=true" alt="print-site2" width="300px">
+<img src="https://github.com/EvertonDepla/Users-React-Back-End/blob/master/assets/react-users.png?raw=true" alt="print-site2">
 
 </div>
 
@@ -27,6 +27,8 @@
  <p>
   
   Acesso ao projeto <a href="https://users-react-app-everton.netlify.app" target="_blank">Clique Aqui <a>
+  <br>
+  Acesso ao repositório GitHub Front-End <a href="https://github.com/EvertonDepla/Users-React-Front-End" target="_blank">Clique Aqui <a>
   
  </p>
 </footer>
